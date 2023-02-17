@@ -1,0 +1,10 @@
+6 Name6 3
+10 Name10 8
+0 Name0 3
+1 Name1 8
+3 Name3 7
+14 Name14 5
+13 Name13 8
+12 Name12 3
+4 Name4 6
+11 Name11 3
